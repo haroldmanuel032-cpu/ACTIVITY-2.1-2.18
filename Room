@@ -1,0 +1,17 @@
+// Harold Manuel
+// NETSEC 1-1 (ACTIVITY 2.9)
+public class Room {
+  public static void main(String [] args) {
+
+    int length = 20;
+    int width = 15;
+    int floorSpace;
+
+    floorSpace=length * width;
+
+    System.out.println("Length:" + length);
+    System.out.println("Width:" +
+    width);
+    System.out.println("Floor space:" + floorSpace);
+  }
+}
