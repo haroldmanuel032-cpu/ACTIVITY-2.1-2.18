@@ -1,0 +1,13 @@
+// Harold Manuel
+public class MessageValue {
+  public static void main(String [] args){
+
+    String message1 = "The value of pi is:";
+    double value = 3.14159;
+
+    System.out.println(message1);
+    System.out.println(value);
+  }
+}
+
+
