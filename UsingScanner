@@ -1,0 +1,26 @@
+// HAROLD MANUEL
+// NETSEC 1-1 (ACTUVITY 2.10)
+import java.util.Scanner;
+
+public class UsingScanner {
+ public static void main(String [] args){
+    Scanner input=new Scanner(System.in);
+    String firstName;
+    String middleName;
+    String lastName;
+    int age;
+
+    System.out.println("Enter your first name:");
+    firstName=input.next();
+
+    System.out.println("Enter your middle name:");
+    middleName=input.next();
+
+    System.out.println("Enter your last name:");
+    lastName=input.next();
+
+    System.out.println("Full Name:" +firstName + "" + middleName + "" + lastName);
+    System.out.println("Age: + 17");
+ }
+}
+
