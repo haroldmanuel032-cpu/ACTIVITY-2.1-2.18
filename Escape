@@ -1,0 +1,9 @@
+// HAROLD MANUEL
+// NETSEC 1-1 (ACTIVITY 2.15)
+public class Escape {
+    public static void main(String [] args) {
+
+        System.out.println("First Name\tLast Name\tStudent Number\tPhone Number");
+        System.out.println("Harold\t\tManuel\t\t25-156\t\t09551228101");
+    }
+}
